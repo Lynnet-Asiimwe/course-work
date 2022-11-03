@@ -3,6 +3,10 @@ package lin;
 import java.util.Scanner;
 import java.util.Random;
 public class game {
+	/** 
+	* Asiimwe Linnet
+	*2021/A/KIT/1748/G/F
+	*/
 
 	public game() {
 		// TODO Auto-generated constructor stub
